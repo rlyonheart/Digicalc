@@ -1,4 +1,4 @@
-# main.py
+# main
 Digicalc is a simple calculator program written in python, and is currently under development.
 More versions coming soon. 
 
